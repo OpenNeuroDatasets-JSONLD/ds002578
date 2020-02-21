@@ -1,0 +1,40 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "value": {
+    "Description": "Type of event (numerical)",
+    "Levels": {
+      "11": "An image with five rectangular boxes are presented. Box No. 1 is highllighted, the disc is presented in box No 1.",
+      "12": "An image with five rectangular boxes are presented. Box No. 1 is highllighted, the disc is presented in box No 2.",
+      "13": "An image with five rectangular boxes are presented. Box No. 1 is highllighted, the disc is presented in box No 3.",
+      "14": "An image with five rectangular boxes are presented. Box No. 1 is highllighted, the disc is presented in box No 4.",
+      "15": "An image with five rectangular boxes are presented. Box No. 1 is highllighted, the disc is presented in box No 5.",
+      "21": "An image with five rectangular boxes are presented. Box No. 2 is highllighted, the disc is presented in box No 1.",
+      "22": "An image with five rectangular boxes are presented. Box No. 2 is highllighted, the disc is presented in box No 2.",
+      "23": "An image with five rectangular boxes are presented. Box No. 2 is highllighted, the disc is presented in box No 3.",
+      "24": "An image with five rectangular boxes are presented. Box No. 2 is highllighted, the disc is presented in box No 4.",
+      "25": "An image with five rectangular boxes are presented. Box No. 2 is highllighted, the disc is presented in box No 5.",
+      "31": "An image with five rectangular boxes are presented. Box No. 3 is highllighted, the disc is presented in box No 1.",
+      "32": "An image with five rectangular boxes are presented. Box No. 3 is highllighted, the disc is presented in box No 2.",
+      "33": "An image with five rectangular boxes are presented. Box No. 3 is highllighted, the disc is presented in box No 3.",
+      "34": "An image with five rectangular boxes are presented. Box No. 3 is highllighted, the disc is presented in box No 4.",
+      "35": "An image with five rectangular boxes are presented. Box No. 3 is highllighted, the disc is presented in box No 5.",
+      "41": "An image with five rectangular boxes are presented. Box No. 4 is highllighted, the disc is presented in box No 1.",
+      "42": "An image with five rectangular boxes are presented. Box No. 4 is highllighted, the disc is presented in box No 2.",
+      "43": "An image with five rectangular boxes are presented. Box No. 4 is highllighted, the disc is presented in box No 3.",
+      "44": "An image with five rectangular boxes are presented. Box No. 4 is highllighted, the disc is presented in box No 4.",
+      "45": "An image with five rectangular boxes are presented. Box No. 4 is highllighted, the disc is presented in box No 5.",
+      "51": "An image with five rectangular boxes are presented. Box No. 5 is highllighted, the disc is presented in box No 1.",
+      "52": "An image with five rectangular boxes are presented. Box No. 5 is highllighted, the disc is presented in box No 2.",
+      "53": "An image with five rectangular boxes are presented. Box No. 5 is highllighted, the disc is presented in box No 3.",
+      "54": "An image with five rectangular boxes are presented. Box No. 5 is highllighted, the disc is presented in box No 4.",
+      "55": "An image with five rectangular boxes are presented. Box No. 5 is highllighted, the disc is presented in box No 5.",
+      "201": "Button press whenever a disc appeared in the highlighted location"
+    }
+  },
+  "HED": {
+    "Description": "Hierarchical Event Descricptor"
+  }
+}
