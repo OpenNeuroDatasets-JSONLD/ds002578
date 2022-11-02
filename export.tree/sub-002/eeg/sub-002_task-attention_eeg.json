@@ -1,0 +1,23 @@
+{
+  "InstitutionAddress": "Swartz Center for Computational Neuroscience",
+  "InstitutionName": "University of California, San Diego",
+  "InstitutionalDepartmentName": "Institute of Neural Computation",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "ActiveTwo",
+  "TaskName": "attention",
+  "EEGChannelCount": 256,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 2511,
+  "SamplingFrequency": 256,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "n\/a"
+    }
+  },
+  "Instructions": "Participants were asked to quickly respond when the target was presented by pressing a mouse button with their right hand.",
+  "TaskDescription": "Subjects participated in visual \"oddball\" paradigm. Five empty squares were presented constantly with the location to attend to marked by a green outline. Filled white disks appeared briefly inside one of the five empty squares. Participants responded to the target by pressing a mouse button with their right hand when the white disk appeared in the attended location. "
+}
