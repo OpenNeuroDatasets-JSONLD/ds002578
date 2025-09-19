@@ -19,7 +19,8 @@
           "TermURL": "snomed:248153007",
           "Label": ""
         }
-      }
+      },
+      "VariableType": "Categorical"
     }
   },
   "participant_id": {
@@ -29,7 +30,7 @@
         "TermURL": "nb:ParticipantID",
         "Label": ""
       },
-      "Identifies": "participant"
+      "VariableType": "Identifier"
     }
   },
   "age": {
@@ -40,15 +41,16 @@
         "TermURL": "nb:Age",
         "Label": ""
       },
-      "Transformation": {
-        "TermURL": "nb:FromInt",
-        "Label": "integer data"
-      },
       "MissingValues": [
         "",
         "n/a",
         " "
-      ]
+      ],
+      "Format": {
+        "TermURL": "nb:FromInt",
+        "Label": "integer data"
+      },
+      "VariableType": "Continuous"
     }
   }
 }
